@@ -1,0 +1,8 @@
+Variable,Form,BIC,Note
+Distance_to_Coral,Log,402.6648399977248,NA
+Distance_to_Stimulus,Log,402.6648399977248,NA
+Loom_Speed,Spline3,402.6648399977248,NA
+Neighbor_Proximity,Linear,402.6648399977248,NA
+Orientation_Angle,Linear,402.6648399977248,NA
+Trial_Event,Spline3,401.32837325528163,NA
+Viewing_Angle,Linear,402.6648399977248,NA

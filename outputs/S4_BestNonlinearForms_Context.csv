@@ -1,0 +1,30 @@
+Variable,Form,BIC,Note
+Distance_to_Coral,Log,402.6648399977248,NA
+Distance_to_Coral,Linear,407.5869619948881,NA
+Distance_to_Coral,Spline2,408.0841899175243,NA
+Distance_to_Coral,Spline3,411.7664053505895,NA
+Distance_to_Stimulus,Log,402.6648399977248,NA
+Distance_to_Stimulus,Linear,409.80291187535386,NA
+Distance_to_Stimulus,Spline2,411.6023293206255,NA
+Distance_to_Stimulus,Spline3,412.18162803803654,NA
+Loom_Speed,Spline3,402.6648399977248,NA
+Loom_Speed,Spline2,407.04195567423415,NA
+Loom_Speed,Log,407.656890876312,NA
+Loom_Speed,Linear,428.86449701665265,NA
+Neighbor_Proximity,Linear,402.6648399977248,NA
+Neighbor_Proximity,Log,404.1914617463009,NA
+Neighbor_Proximity,Spline2,409.6951151584782,NA
+Neighbor_Proximity,Spline3,416.14930167803476,"Model is nearly unidentifiable: large eigenvalue ratio
+ - Rescale variables?"
+Orientation_Angle,Linear,402.6648399977248,NA
+Orientation_Angle,Log,402.685288425119,NA
+Orientation_Angle,Spline2,407.7977017947984,NA
+Orientation_Angle,Spline3,414.94473102986314,NA
+Trial_Event,Spline3,401.32837325528163,NA
+Trial_Event,Linear,402.6648399977248,NA
+Trial_Event,Spline2,404.94503165434514,NA
+Trial_Event,Log,405.1922912689885,NA
+Viewing_Angle,Linear,402.6648399977248,NA
+Viewing_Angle,Log,406.7294188691825,NA
+Viewing_Angle,Spline2,406.8980103154231,NA
+Viewing_Angle,Spline3,413.4510011568348,NA
